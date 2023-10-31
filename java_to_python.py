@@ -57,5 +57,6 @@ def main():
     cipher_text = encrypt(plain_text, matrix)
     print("Encrypted Text:", cipher_text)
 
-if __name__ == "_main_":
+if _name_ == "_main_":
     main()
+    
